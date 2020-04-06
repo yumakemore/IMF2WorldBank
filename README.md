@@ -1,5 +1,5 @@
 # IMF2WorldBank
-Financial Inclusion method performing multi-layer weighting for association between the IMF data (outreach indicators) and the World Bank data (usage indicators).
+Financial Inclusion method performing multi-layer weighting for association between the IMF FAS data (outreach indicators) and the World Bank Global Findex data (usage indicators).
 
 Byunggu Yu, Ph.D. and Vincent Tanoe
 
